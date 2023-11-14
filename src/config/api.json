@@ -1,0 +1,4 @@
+{
+  "BASE_URL": "https://api.spotify.com/v1",
+  "REDIRECT_URI": "http://localhost:3000"
+}
