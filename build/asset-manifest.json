@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a262ea6.css",
+    "main.js": "/static/js/main.38014329.js",
+    "static/media/SPOTLIGHT-DARK-1-transparent.png": "/static/media/SPOTLIGHT-DARK-1-transparent.d3e1cbef29b6cab9c700.png",
+    "index.html": "/index.html",
+    "main.3a262ea6.css.map": "/static/css/main.3a262ea6.css.map",
+    "main.38014329.js.map": "/static/js/main.38014329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a262ea6.css",
+    "static/js/main.38014329.js"
+  ]
+}
